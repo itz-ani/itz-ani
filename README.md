@@ -1,7 +1,7 @@
 ## Hi there itz-ani 👋
 
 # 💫 About Me:
-"Final-year CS Engineering student |  Currently learning JavaScript and exploring Full Stack Java Development . Open to entry-level opportunities"
+"Final-year CS Engineering student |  Currently learning JavaScript and exploring Full Stack Java Development | Open to entry-level opportunities "
 
 
 ## 🌐 Socials:
